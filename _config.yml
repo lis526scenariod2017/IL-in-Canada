@@ -1,12 +1,12 @@
-title: Geeky corner
+title: IL in Canada
 description: Much-Worse Jekyll theme for academic page and blog
-sourcecode: "https://github.com/lis526scenariod2017/much-worse-jekyll-theme"
+sourcecode: "https://github.com/lis526scenariod2017/IL-in-Canada"
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
 
 url: "http://lis526scenariod2017.github.io"     # the base hostname & protocol for your site
-baseurl: "/much-worse-jekyll-theme"                   # the subpath of your site, e.g. /blog
+baseurl: "/IL-in-Canada"                   # the subpath of your site, e.g. /blog
 
 author:
     name:
