@@ -3,6 +3,7 @@
     position: relative;
     font-family: $header-font-family;
     text-transform: uppercase;
+    font-weight: bold;
     font-size: $small-font-size;
     @extend %clearfix;
 }
