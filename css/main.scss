@@ -20,15 +20,17 @@ $blue:       #0091ed;
 $orange:     #ca6c18;
 $red:        #b6321c;
 $white:      #ffffff;
+$text:       #414142;
+$textlight:  #9ba1a6;
 
 $background:        $white;
 $dark-background:   darken($background, 5%);
-$text-color:        $grey-vdark;
-$text-light-color:  $grey;
+$text-color:        $text;
+$text-light-color:  $textlight;
 $url-color:         $red;
 $url-hover-color:   $orange;
-$header-text-color: $text-light-color;
-$header-hover-color:$text-color;
+$header-text-color: $text;
+$header-hover-color:$text;
 $header-hover-url:  $url-color;
 $line-color:        $grey-light;
 
