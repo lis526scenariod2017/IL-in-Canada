@@ -5,3 +5,5 @@ permalink: /resources/
 ---
 
 ## Resources
+
+Enter citations here.
