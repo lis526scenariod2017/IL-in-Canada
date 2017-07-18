@@ -1,3 +1,6 @@
+- title: "About"
+  href: "{{ site.baseurl }}/"
+
 - title: "Executive Summary"
   href: "/executivesummary/"
 
