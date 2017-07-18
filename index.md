@@ -4,7 +4,7 @@ title:
 permalink: /
 ---
 
-{% include image.html url="images/ilincanada300.png" caption="Information Literacy in Canada" max_width="300px" align="right" %}
+{% include image.html url="images/ilincanada300.png" caption="" max_width="300px" align="right" %}
 
 ## About
 
