@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Multimedia
+title: 
 permalink: /multimedia/
 ---
 
