@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Executive Summary
+title: 
 permalink: /executivesummary/
 ---
 
