@@ -44,6 +44,33 @@ Shank, J. D., & Bell, S. (2011). Blended librarianship. *Reference & User Servic
 
 Smith, L. (2013). Towards a model of critical information literacy instruction for the development of political agency. *Journal of Information Literacy*, 7(2), 15-32. [https://dx.doi.org/10.11645/7.2.1809](https://dx.doi.org/10.11645/7.2.1809) 
 
+Sturges, P., and Gastinger, A. (2010). Information literacy as a human right. *Libri: International Journal of Libraries & Information Services*, 60(3), 195-202. [https://doi.org/10.1515/libr.2010.017](https://doi.org/10.1515/libr.2010.017)
+
+Webber, S., & Johnston, B. (2017). Information literacy: conceptions, context and the formation of a discipline. *Journal of Information Literacy*, 11(1), 156-183. [https://dx.doi.org/10.11645/11.1.2205](https://dx.doi.org/10.11645/11.1.2205)
+
+Whitehead, M.J., & Quinlan, C.A. (2002). *Canada: An information literacy case study*. White paper prepared for UNESCO, the US National Commission on Libraries and Information Science, and the National Forum on Information Literacy, for use at the Information Literacy Meeting of Experts, Prague, Czech Republic. Retrieved from [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.4912&rep=rep1&type=pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.4912&rep=rep1&type=pdf)
+
 ### Foundational Documents
 
+American Library Association (ALA). (2004). *Core values of librarianship*. Retrieved from [http://www.ala.org/advocacy/intfreedom/corevalues](http://www.ala.org/advocacy/intfreedom/corevalues)
+
+American Library Association (ALA). (1989). *Presidential committee on information literacy. Final report.* Chicago: American Library Association. Retrieved from [http://www.ala.org/acrl/publications/whitepapers/presidential](http://www.ala.org/acrl/publications/whitepapers/presidential) 
+
+International Federation of Library Associations and Institutions (IFLA). (2005). *Beacons of the information society: The Alexandria proclamation on information literacy and lifelong learning*. Retrieved from [https://www.ifla.org/publications/beacons-of-the-information-society-the-alexandria-proclamation-on-information-literacy](https://www.ifla.org/publications/beacons-of-the-information-society-the-alexandria-proclamation-on-information-literacy)
+
+Thompson, S. (2003). *Information literacy meeting of experts: Prague, the Czech Republic: September 20-23, 2003: Report of a meeting.* Washington: United States Commission on Libraries and Information Science. Retrieved from [http://www.unesco.org/fileadmin/MULTIMEDIA/HQ/CI/CI/pdf/themes/info_lit_meeting_prague_2003.pdf](http://www.unesco.org/fileadmin/MULTIMEDIA/HQ/CI/CI/pdf/themes/info_lit_meeting_prague_2003.pdf)
+
+United Nations. (2017). *United Nations declaration of human rights*. Retrieved from [http://www.un.org/en/universal-declaration-human-rights/](http://www.un.org/en/universal-declaration-human-rights/)
+
 ### Models and Frameworks
+
+American Association of School Librarians (AASL). (2011). *Standards for the 21st century learner*. Retrieved from [http://ala.org/aasl/standards-guidelines/learning-standards](http://ala.org/aasl/standards-guidelines/learning-standards)
+
+Association for College and Research Libraries (ACRL). (2015). *Framework for information literacy for higher education*. Retrieved from [http://www.ala.org/acrl/standards/ilframework](http://www.ala.org/acrl/standards/ilframework)
+
+Association for College and Research Libraries (ACRL). (2000). *Information literacy competency standards for higher education*. Retrieved from [http://www.ala.org/acrl/standards/informationliteracycompetency](http://www.ala.org/acrl/standards/informationliteracycompetency)
+
+Society of College, National, and University Libraries (SCONUL) Working Group on Information Literacy. (2011). *The SCONUL seven pillars of information literacy: Core model for higher education*. Retrieved from [https://www.sconul.ac.uk/sites/default/files/documents/coremodel.pdf](https://www.sconul.ac.uk/sites/default/files/documents/coremodel.pdf)
+
+Secker, J., & Coonan, J. (2011). *A new curriculum for information literacy (ANCIL): Curriculum and supporting documents*. Retrieved from [http://ccfil.pbworks.com/f/ANCIL_final.pdf](http://ccfil.pbworks.com/f/ANCIL_final.pdf) 
+
