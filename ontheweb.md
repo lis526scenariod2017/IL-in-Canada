@@ -26,4 +26,4 @@ Cara Bradley ([@carabradley17](https://twitter.com/carabradley17)) - Teaching an
 
 [#informationliteracy](https://twitter.com/hashtag/informationliteracy?src=hash) hashtag on Twitter
 
-Journal of Information Literacy (JIL) ([@JInfoLit](https://twitter.com/JInfoLit)) on Twitter
+Journal of Information Literacy ([@JInfoLit](https://twitter.com/JInfoLit)) on Twitter
