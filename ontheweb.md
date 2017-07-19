@@ -24,4 +24,4 @@ Cara Bradley ([@carabradley17](https://twitter.com/carabradley17)) - Teaching an
 
 [#infolit](https://twitter.com/search?q=%23infolit&src=tyah) hashtag on Twitter
 
-Journal of Information Literacy (JIL) ([@JInfoLit](https://twitter.com/JInfoLit) on Twitter
+Journal of Information Literacy (JIL) ([@JInfoLit](https://twitter.com/JInfoLit)) on Twitter
