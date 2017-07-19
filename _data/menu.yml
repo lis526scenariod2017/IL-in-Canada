@@ -14,6 +14,8 @@
       subhref: "/foundationaldocuments/"
     - subtitle: "Models and Frameworks"
       subhref: "/modelsandframeworks/"
+    - subtitle: "Journals"
+      subhref: "/journals/"
     - subtitle: "On The Web"
       subhref: "/ontheweb/"
   
