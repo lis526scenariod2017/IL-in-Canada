@@ -6,7 +6,9 @@ permalink: /resources/
 
 ## Resources
 
-Enter blurb about resources here.
+Enter blurb about resources here. 
+
+[Articles](#articles)
 
 ### Articles
 
