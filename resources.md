@@ -8,7 +8,7 @@ permalink: /resources/
 
 Enter blurb about resources here. 
 
-[Articles](#articles)
+<p align="center">[Articles](#articles)</p>
 
 ### Articles
 
