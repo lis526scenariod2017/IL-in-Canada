@@ -8,6 +8,17 @@ permalink: /ontheweb/
 
 ### Key Websites
 
+[Chartered Institute of Library and Information Professionals (CILIP)](http://www.informationliteracy.org.uk/) 
+
+[Project Information Literacy (PIL)](http://www.projectinfolit.org/)
+
+[ACRL Framework for Information Literacy Sandbox](http://sandbox.acrl.org/resources)
+
+### Blogs
+
+[Sheila Webber’s Information Literacy Weblog](http://information-literacy.blogspot.ca/)
+
+
 ### Journals
 
 There are two journals that are devoted specifically to information literacy and instruction in libraries:
