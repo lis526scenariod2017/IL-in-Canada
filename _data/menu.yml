@@ -7,5 +7,10 @@
 - title: "Resources"
   href: "/resources/"
   
+- title: "Resource"
+  subcategories:
+    - subtitle: "Annotations"
+      subhref: "/annotations/"
+  
 - title: "Multimedia"
   href: "/multimedia/"
