@@ -20,6 +20,6 @@ permalink: /ontheweb/
 
 ### Social Media Contacts
 
-[@carabradley17](https://twitter.com/carabradley17) Cara Bradley, Teaching and Learning Librarian at the University of Regina, on Twitter 
+Cara Bradley ([@carabradley17](https://twitter.com/carabradley17)) - Teaching and Learning Librarian at the University of Regina, on Twitter 
 
 [#infolit](https://twitter.com/search?q=%23infolit&src=tyah) hashtag on Twitter
