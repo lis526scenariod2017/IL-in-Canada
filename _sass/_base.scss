@@ -86,13 +86,13 @@ a {
 
 // Blockquotes
 blockquote {
-    background-color: $dark-background;
+    background-color: $white;
     border-left: 4px solid darken($line-color, 66%);
     padding-left:   1.0em;
     padding-right:  0.8em;
     padding-top:    0.8em;
     padding-bottom: 0.001em;
-    font-style: italic;
+    font-style: normal;
     > :last-child {
         margin-bottom: 0;
     }
