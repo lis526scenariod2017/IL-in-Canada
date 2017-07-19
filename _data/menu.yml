@@ -9,8 +9,14 @@
   
 - title: "Resource"
   subcategories:
+    - subtitle: "Articles"
+      subhref: "/articles/"
     - subtitle: "Annotations"
       subhref: "/annotations/"
+    - subtitle: "Foundational Documents"
+      subhref: "/foundationaldocuments/"
+    - subtitle: "Models and Frameworks"
+      subhref: "/modelsandframeworks/"
   
 - title: "Multimedia"
   href: "/multimedia/"
