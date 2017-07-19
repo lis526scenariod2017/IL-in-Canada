@@ -4,18 +4,8 @@
 - title: "Executive Summary"
   href: "/executivesummary/"
   
-  - title: "Resources"
-  subcategories:
-    - subtitle: "Articles"
-      subhref: "/articles/"
-    - subtitle: "Foundational Documents"
-      subhref: "/foundationaldocuments/"
-    - subtitle: "Annotated Articles"
-      subhref: "/annotatedarticles/"
-    - subtitle: "Models and Frameworks"
-      subhref: "/modelsandframeworks/"
-    - subtitle: "Websites and Social Media"
-      subhref: "/websitesandsocialmedia/"
-
+- title: "Resources"
+  href: "/resources/"
+  
 - title: "Multimedia"
   href: "/multimedia/"
