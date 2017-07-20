@@ -27,7 +27,6 @@ There are a number of noteable blogs in the LIS community that address IL and in
 
 ### Social Media Contacts
 
-Twitter seems to be the preferred social media platform. We suggest browsing the [#infolit](https://twitter.com/search?q=%23infolit&src=tyah) and [#informationliteracy](https://twitter.com/hashtag/informationliteracy?src=hash) hashtags for contacts. Otherwise, the following Twitter accounts are active and contain relevant information regarding IL:
+Twitter seems to be the preferred social media platform in the LIS community. We suggest browsing the [#infolit](https://twitter.com/search?q=%23infolit&src=tyah) and [#informationliteracy](https://twitter.com/hashtag/informationliteracy?src=hash) hashtags for contacts. Otherwise, the following Twitter accounts are active and contain relevant information regarding IL:
 
 * [Cara Bradley](https://twitter.com/carabradley17) - teaching and Learning Librarian at the University of Regina 
-* [Journal of Information Literacy](https://twitter.com/JInfoLit)
