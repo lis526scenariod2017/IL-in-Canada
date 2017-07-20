@@ -8,15 +8,15 @@ permalink: /ontheweb/
 
 ### Key Websites
 
-+[ACRL Framework for Information Literacy Sandbox](http://sandbox.acrl.org/resources)
+* [ACRL Framework for Information Literacy Sandbox](http://sandbox.acrl.org/resources)
 
-+[ALA Library Instruction Roundtable (LIRT)](http://www.ala.org/lirt/)
+* [ALA Library Instruction Roundtable (LIRT)](http://www.ala.org/lirt/)
 
-[Chartered Institute of Library and Information Professionals (CILIP)](http://www.informationliteracy.org.uk/) 
+* [Chartered Institute of Library and Information Professionals (CILIP)](http://www.informationliteracy.org.uk/) 
 
-[Library Orientation Exchange (LOEX)](http://www.loex.org/index.php)
+* [Library Orientation Exchange (LOEX)](http://www.loex.org/index.php)
 
-[Project Information Literacy (PIL)](http://www.projectinfolit.org/)
+* [Project Information Literacy (PIL)](http://www.projectinfolit.org/)
 
 ### Blogs
 
