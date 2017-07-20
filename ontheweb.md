@@ -6,7 +6,9 @@ permalink: /ontheweb/
 
 ## On The Web
 
-### Key Websites
+### Websites
+
+This list of websites is by no means exhaustive, but includes a select group of links to professional organizations that support IL teaching:
 
 * [ACRL Framework for Information Literacy Sandbox](http://sandbox.acrl.org/resources)
 * [ALA Library Instruction Roundtable (LIRT)](http://www.ala.org/lirt/)
@@ -15,6 +17,8 @@ permalink: /ontheweb/
 * [Project Information Literacy (PIL)](http://www.projectinfolit.org/)
 
 ### Blogs
+
+There are a number of noteable blogs in the LIS community that address IL and instruction. Some of our favourites are listed below:
 
 * [ACRLog](http://acrlog.org/)
 * [In the Library with the Lead Pipe](http://inthelibrarywiththeleadpipe.org/) 
