@@ -6,7 +6,7 @@ permalink: /multimedia/
 
 ## Multimedia
 
-Ted Talk: Beware online "filter bubbles" by Eli Parser
+Ted Talk: Beware online "filter bubbles" by Eli Pariser
 
 >"As web companies strive to tailor their services (including news and search results) to our personal tastes, there's a dangerous unintended consequence: We get trapped in a "filter bubble" and don't get exposed to information that could challenge or broaden our worldview. Eli Pariser argues powerfully that this will ultimately prove to be bad for us and bad for democracy."
 
