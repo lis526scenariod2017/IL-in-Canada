@@ -6,6 +6,6 @@ permalink: /multimedia/
 
 ## Multimedia
 
-Test
+Ted Talk: Beware online "filter bubbles" by Eli Parser
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/B8ofWFx525s" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B8ofWFx525s?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
