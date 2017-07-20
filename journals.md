@@ -18,6 +18,8 @@ Other relevant journals that often include articles on information literacy and 
 
 [College & Research Libraries (C&RL)](http://crl.acrl.org/index.php/crl/index)
 
+[Evidence Based Library and Information Practice](https://journals.library.ualberta.ca/eblip/index.php/EBLIP/about)  
+
 [References Services Review](http://www.emeraldinsight.com/loi/rsr) 
 
 [The Journal of Academic Librarianship](https://www.journals.elsevier.com/the-journal-of-academic-librarianship/)
