@@ -30,7 +30,7 @@ Jacobs, H. L. & Berg, S. (2011). Reconnecting information literacy policy with t
 
 Julien, H. (2000). Information literacy instruction in Canadian academic libraries: Longitudinal trends and international comparisons. *College and Research Libraries*, 61(6), 510-23. [https://dx.doi.org/10.5860/crl.61.6.510](https://dx.doi.org/10.5860/crl.61.6.510)
 
-Julien, H. (2005). A longitudinal analysis of information literacy instruction in Canadian academic libraries. *Canadian Journal of Information and Library Science*, 29(3), 289-313. [https://dx.doi.org/10.7939/R3V40K09C](https://dx.doi.org/10.7939/R3V40K09C)
+Julien, H., Tan, M., & Merillat, S. (2013). Instruction for information literacy in Canadian academic libraries: A longitudinal analysis of aims, methods, and success. *Canadian Journal Of Information And Library Science*, (2), 81-102. Retrieved from [https://muse.jhu.edu/](https://muse.jhu.edu/)
 
 Mery, Y., Newby, J., & Peng, K. (2012).  Why one-shot information literacy sessions are not the future of instruction: A case for online credit courses. *College & Research Libraries*, 73(4), 366-377. [https://doi.org/10.5860/crl-271](https://doi.org/10.5860/crl-271)
 
