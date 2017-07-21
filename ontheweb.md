@@ -22,7 +22,8 @@ There are a number of noteable blogs in the LIS community that address IL and in
 
 * [ACRLog](http://acrlog.org/)
 * [In the Library with the Lead Pipe](http://inthelibrarywiththeleadpipe.org/) 
-* [Merideth Farkas’ Information Wants to be Free](https://meredith.wolfwater.com/wordpress/)
+* [Meredeth Farkas’ Information Wants to be Free](https://meredith.wolfwater.com/wordpress/)
+* [Ontario Library Association: Open Shelf - Information Literacy](http://www.open-shelf.ca/subjects/information-literacy/)
 * [Sheila Webber’s Information Literacy Weblog](http://information-literacy.blogspot.ca/)
 
 ### Social Media Contacts
