@@ -6,7 +6,15 @@ permalink: /multimedia/
 
 ## Multimedia
 
-### Author James Gleick discusses information and communication by The Guardian
+### Introduction to LILAC 2014
+
+Enter blurb here.
+
+>"Introduction to LILAC 2014 from Paul Zurkowski, who first penned the term 'Information Literacy' 40 years ago. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8DXnUvseNTs" frameborder="0" allowfullscreen></iframe>
+
+### James Gleick discusses information and communication
 
 Enter blurb here.
 
@@ -14,7 +22,7 @@ Enter blurb here.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cDSJ_yvLgN0" frameborder="0" allowfullscreen></iframe>
 
-### Ted Talk: Beware online "filter bubbles" by Eli Pariser
+### Ted Talk: Beware online "filter bubbles"
 
 Enter blurb here.
 
@@ -22,7 +30,7 @@ Enter blurb here.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B8ofWFx525s?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-### Ted Talk: The danger of science denial by Michael Specter
+### Ted Talk: The danger of science denial
 
 Enter blurb here.
 
