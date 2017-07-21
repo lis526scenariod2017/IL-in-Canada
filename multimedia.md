@@ -12,8 +12,12 @@ permalink: /multimedia/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B8ofWFx525s?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+***
+
 ### Ted Talk: The danger of science denial by Michael Specter
 
 >"Vaccine-autism claims, "Frankenfood" bans, the herbal cure craze: All point to the public's growing fear (and, often, outright denial) of science and reason, says Michael Specter. He warns the trend spells disaster for human progress."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7OMLSs8t1ng?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+***
