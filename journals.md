@@ -6,10 +6,11 @@ permalink: /journals/
 
 ## Journals
 
-There are two journals that are devoted specifically to information literacy and instruction in libraries:
+There are a few active journals that are devoted specifically to information literacy and instruction in libraries:
 
 * [Communications in Information Literacy (CIL)](http://www.comminfolit.org/index.php?journal=cil) 
 * [Journal of Information Literacy (JIL)](http://www.informationliteracy.org.uk/information-literacy-group/jil/) 
+* [Nordic Journal of Information Literacy in Higher Education](http://noril.uib.no/index)
 
 Other relevant journals that often include articles on information literacy and instruction:
 
