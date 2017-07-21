@@ -8,7 +8,7 @@ permalink: /ontheweb/
 
 ### Websites
 
-This list of websites is by no means exhaustive, but includes a select group of links to professional organizations that support IL teaching:
+This list of websites is by no means exhaustive, but includes a select group of links to professional organizations that support information literacy education (ILE):
 
 * [ACRL Framework for Information Literacy Sandbox](http://sandbox.acrl.org/resources)
 * [ALA Library Instruction Roundtable (LIRT)](http://www.ala.org/lirt/)
@@ -18,7 +18,7 @@ This list of websites is by no means exhaustive, but includes a select group of 
 
 ### Blogs
 
-There are a number of noteable blogs in the LIS community that address IL and instruction. Some of our favourites are listed below:
+There are a number of noteable blogs in the libary and information science (LIS) community that address information literacy (IL) and instruction. Some of our favourites are listed below:
 
 * [ACRLog](http://acrlog.org/)
 * [In the Library with the Lead Pipe](http://inthelibrarywiththeleadpipe.org/) 
