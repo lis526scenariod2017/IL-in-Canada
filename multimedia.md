@@ -10,7 +10,7 @@ permalink: /multimedia/
 
 Enter blurb here.
 
->"Introduction to LILAC 2014 from Paul Zurkowski, who first penned the term 'Information Literacy' 40 years ago. 
+>"Introduction to LILAC 2014 from Paul Zurkowski, who first penned the term 'Information Literacy' 40 years ago."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8DXnUvseNTs" frameborder="0" allowfullscreen></iframe>
 
