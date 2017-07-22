@@ -48,3 +48,6 @@ A select bibliography of articles on information literacy (IL) and instruction:
 
 * Whitehead, M.J., & Quinlan, C.A. (2002). *Canada: An information literacy case study*. White paper prepared for UNESCO, the US National Commission on Libraries and Information Science, and the National Forum on Information Literacy, for use at the Information Literacy Meeting of Experts, Prague, Czech Republic. Retrieved from [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.4912&rep=rep1&type=pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.4912&rep=rep1&type=pdf)
 
+* Zurkowski, P.G. (1974). The information service environment: Relationships and priorities. *National Commission on Libraries and Information Science: National Program on Library and Information Services*. Related Paper Number 5. Retrieved from [http://files.eric.ed.gov/fulltext/ED100391.pdf](http://files.eric.ed.gov/fulltext/ED100391.pdf)
+ 
+
