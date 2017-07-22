@@ -14,6 +14,8 @@ There are a number of different models and frameworks of information literacy (I
 
 * Association for College and Research Libraries (ACRL). (2000). *Information literacy competency standards for higher education*. Retrieved from [http://www.ala.org/acrl/standards/informationliteracycompetency](http://www.ala.org/acrl/standards/informationliteracycompetency)
 
+* Chartered Institute of Library and Information Professionals (CILIP). (2017). *Information Literacy*. Retrieved from: [https://www.cilip.org.uk/research/topics/information-literacy](https://www.cilip.org.uk/research/topics/information-literacy)
+
 * Society of College, National, and University Libraries (SCONUL) Working Group on Information Literacy. (2011). *The SCONUL seven pillars of information literacy: Core model for higher education*. Retrieved from [https://www.sconul.ac.uk/sites/default/files/documents/coremodel.pdf](https://www.sconul.ac.uk/sites/default/files/documents/coremodel.pdf)
 
 * Secker, J., & Coonan, J. (2011). *A new curriculum for information literacy (ANCIL): Curriculum and supporting documents*. Retrieved from [http://ccfil.pbworks.com/f/ANCIL_final.pdf](http://ccfil.pbworks.com/f/ANCIL_final.pdf) 
