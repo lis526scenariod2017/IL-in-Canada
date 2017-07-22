@@ -6,6 +6,8 @@ permalink: /foundationaldocuments/
 
 ## Foundational Documents
 
+The following foundational documents proved especially valuable as they inspired us to consider the social and political dimensions of information literacy (IL):
+
 * American Library Association (ALA). (2004). *Core values of librarianship*. Retrieved from [http://www.ala.org/advocacy/intfreedom/corevalues](http://www.ala.org/advocacy/intfreedom/corevalues)
 
 * American Library Association (ALA). (1989). *Presidential committee on information literacy. Final report.* Chicago: American Library Association. Retrieved from [http://www.ala.org/acrl/publications/whitepapers/presidential](http://www.ala.org/acrl/publications/whitepapers/presidential) 
