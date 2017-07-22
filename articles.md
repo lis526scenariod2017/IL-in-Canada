@@ -22,7 +22,7 @@ A select bibliography of articles on information literacy (IL) and instruction:
 
 * Cull, B. W. (2005). Voices in the wilderness: A report on academic information literacy instruction in Atlantic Canada. *Canadian Journal of Information & Library Sciences*, 29(1), 1-26. Retrieved from [https://lib.unb.ca/instruction/bcull/CJILS2005.pdf](https://lib.unb.ca/instruction/bcull/CJILS2005.pdf)
 
-* Davies-Hoffman, K., Alvarez, B., Costello, M., & Emerson, D. (2013). Keeping Pace with information literacy instruction for the real world: When will MLS programs wake up and smell the LILACs?. *Communications In Information Literacy*, 7(1), 9-23. Retrieved from [http://files.eric.ed.gov/fulltext/EJ1088993.pdf](http://files.eric.ed.gov/fulltext/EJ1088993.pdf)
+* Davies-Hoffman, K., Alvarez, B., Costello, M., & Emerson, D. (2013). Keeping pace with information literacy instruction for the real world: When will MLS programs wake up and smell the LILACs?. *Communications In Information Literacy*, 7(1), 9-23. Retrieved from [http://files.eric.ed.gov/fulltext/EJ1088993.pdf](http://files.eric.ed.gov/fulltext/EJ1088993.pdf)
 
 * Farkas, M. (2012). Participatory technologies, pedagogy 2.0 and information literacy. *Library Hi Tech*, 30(1), 82-94.  [https://doi.org/10.1108/07378831211213229](https://doi.org/10.1108/07378831211213229)
 
