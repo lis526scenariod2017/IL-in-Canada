@@ -8,7 +8,7 @@ permalink: /modelsandframeworks/
 
 There are a number of different models and frameworks of information literacy (IL). Those consulted are listed below:
  
-* American Association of School Librarians (AASL). (2011). *Standards for the 21st century learner*. Retrieved from [http://ala.org/aasl/standards-guidelines/learning-standards](http://ala.org/aasl/standards-guidelines/learning-standards)
+* American Association of School Librarians (AASL). (2011). *Standards for the 21st century learner*. Retrieved from [http://www.ala.org/aasl/standards/learning](http://www.ala.org/aasl/standards/learning) 
 
 * Association for College and Research Libraries (ACRL). (2015). *Framework for information literacy for higher education*. Retrieved from [http://www.ala.org/acrl/standards/ilframework](http://www.ala.org/acrl/standards/ilframework)
 
