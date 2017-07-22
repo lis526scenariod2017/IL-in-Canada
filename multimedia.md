@@ -8,9 +8,7 @@ permalink: /multimedia/
 
 ### Paul Zurkowski
 
->"Introduction to the Librarians' Information Literacy Annual Conference (LILAC) in 2014 by Zurkowski who introduced the term 'information literacy' in 1974."
-
-Zurkowski called for the creation of a major national universial information literacy in the United States by 1984. However, this was not realized. 
+Introduction to the Librarians' Information Literacy Annual Conference (LILAC) in 2014 by Paul Zurkowski who introduced the term 'information literacy' in 1974. Zurkowski called for the creation of a major national universial information literacy in the United States by 1984. This was not, however, realized.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8DXnUvseNTs" frameborder="0" allowfullscreen></iframe>
 
