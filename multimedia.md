@@ -8,24 +8,24 @@ permalink: /multimedia/
 
 ### Paul Zurkowski
 
-Introduction to the Librarians' Information Literacy Annual Conference (LILAC) in 2014 by Paul Zurkowski who introduced the term 'information literacy' in 1974. Zurkowski called for the creation of a major national universial information literacy in the United States by 1984. This was not, however, realized.
+Introduction to the Librarians' Information Literacy Annual Conference (LILAC) in 2014 by Paul Zurkowski who introduced the term 'information literacy' or IL in 1974. Zurkowski called for the creation of a major national universal IL program in the United States by 1984. This was not, however, realized.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8DXnUvseNTs" frameborder="0" allowfullscreen></iframe>
 
 ### James Gleick discusses information and communication
 
->"James Gleick - science writer, three-time Pulitzer prize finalist and author of *The Information: A History, a Theory, a Flood* - met up with Sarah Crown at the Edinburgh International Book festival to talk about the evolution of the information age, from drums and morse code through telegrams to the internet and beyond."
+James Gleick discusses the evolution of the information age with Sarah Crown from the Guardian at the Edinburgh International Book Festevial. Gleick stated in his Pulitzer Prize nominated book *The Information: A History, A Theory, A Flood* (2011) that "information is what our world runs on: the blood and the fuel, the vital principle" (p. 8).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cDSJ_yvLgN0" frameborder="0" allowfullscreen></iframe>
 
 ### Ted Talk: Beware online "filter bubbles"
 
->"As web companies strive to tailor their services (including news and search results) to our personal tastes, there's a dangerous unintended consequence: We get trapped in a "filter bubble" and don't get exposed to information that could challenge or broaden our worldview. Eli Pariser argues powerfully that this will ultimately prove to be bad for us and bad for democracy."
+Eli Pariser discusses "filter bubbles" and how these limit our exposure to information outside of our worldview. Pariser's argument illustrates why IL skills are needed in the contemporary information environment.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B8ofWFx525s?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ### Ted Talk: The danger of science denial
 
->"Vaccine-autism claims, "Frankenfood" bans, the herbal cure craze: All point to the public's growing fear (and, often, outright denial) of science and reason, says Michael Specter. He warns the trend spells disaster for human progress."
+Michael Specter discusses the anti-vaccine and anti-genetically modified organism (GMO) movement and how these trends can limit human progress. Specter's talk underscores the need for critial thinking, research, and IL skills to counter dangerous science-denial.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7OMLSs8t1ng?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
