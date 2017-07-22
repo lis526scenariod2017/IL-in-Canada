@@ -14,7 +14,7 @@ Introduction to the Librarians' Information Literacy Annual Conference (LILAC) i
 
 ### James Gleick discusses information and communication
 
-James Gleick discusses the evolution of the information age with Sarah Crown from the Guardian at the Edinburgh International Book Festevial. Gleick stated in his Pulitzer Prize nominated book *The Information: A History, A Theory, A Flood* (2011) that "information is what our world runs on: the blood and the fuel, the vital principle" (p. 8).
+James Gleick discusses the evolution of the information age with Sarah Crown from the Guardian at the Edinburgh International Book Festival. Gleick stated in his Pulitzer Prize nominated book *The Information: A History, A Theory, A Flood* (2011) that "information is what our world runs on: the blood and the fuel, the vital principle" (p. 8).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cDSJ_yvLgN0" frameborder="0" allowfullscreen></iframe>
 
