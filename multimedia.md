@@ -26,7 +26,7 @@ Eli Pariser discusses "filter bubbles" and how these limit our exposure to infor
 
 ### Ted Talk: The danger of science denial
 
-Michael Specter discusses the anti-vaccine and anti-genetically modified organism (GMO) movement and how these trends can limit human progress. Specter's talk underscores the need for critial thinking, research, and IL skills to counter dangerous science-denial.
+Michael Specter discusses the anti-vaccine and anti-genetically modified organism (GMO) movement and how these trends can limit human progress. Specter's talk underscores the need for critical thinking, research, and IL skills to counter dangerous science-denial.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7OMLSs8t1ng?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
