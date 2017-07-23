@@ -8,7 +8,7 @@ permalink: /ontheweb/
 
 ### Websites
 
-This list of websites is by no means exhaustive, but includes a select group of links to professional organizations that support information literacy education (ILE):
+This list of websites is by no means exhaustive but includes a select group of links to professional organizations that support information literacy education (ILE):
 
 * [ACRL Framework for Information Literacy Sandbox](http://sandbox.acrl.org/resources)
 * [ALA Library Instruction Roundtable (LIRT)](http://www.ala.org/lirt/)
