@@ -20,4 +20,4 @@ We value your feedback and welcome any comments, questions, or suggestions.
 
 **Information Literacy in Canada** was prepared by Colin Elliot, Mary Greenshields, Janie Hill, and Adam Walser for LIS 526: Instructional Practices in Library and Information Services (Spring/Summer 2017) at the [University of Alberta](https://www.ualberta.ca/), [School of Library and Information Services (SLIS)](https://www.ualberta.ca/school-of-library-and-information-studies).
 
-This website was built using [Jekyll](https://jekyllrb.com/) and is hosted [GitHub Pages](https://pages.github.com/).
+This website was built using [Jekyll](https://jekyllrb.com/) and is hosted on [GitHub Pages](https://pages.github.com/).
