@@ -16,6 +16,6 @@ IL in Canada is aimed at CFLA members and executive council, but is open to all 
 
 We value your feedback and welcome any comments, questions, or suggestions.
 
-### Website References
+### Credits
 
-Gleick, J. (2011). *The information: A history, a theory, a flood*. New York: Pantheon Books.
+
