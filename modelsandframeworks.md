@@ -6,7 +6,7 @@ permalink: /modelsandframeworks/
 
 ## Models and Frameworks
 
-There are a number of different models and frameworks of information literacy (IL). Those consulted are listed below:
+There are a number of different models and frameworks of information literacy (IL). Examples include:
  
 * American Association of School Librarians (AASL). (2011). *Standards for the 21st century learner*. Retrieved from [http://www.ala.org/aasl/standards/learning](http://www.ala.org/aasl/standards/learning) 
 
