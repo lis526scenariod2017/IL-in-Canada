@@ -18,4 +18,8 @@ We value your feedback and welcome any comments, questions, or suggestions.
 
 ### Credits
 
+LIS 526: Instructional Practices in Library and Information Services (Spring/Summer 2017)
+[University of Alberta](https://www.ualberta.ca/), [School of Library and Information Services(https://www.ualberta.ca/school-of-library-and-information-studies) (SLIS)
+The Information Literacy Committee (ILC): Colin Elliott, Mary Greenshields, Janie Hill, and Adam Walser
+
 
