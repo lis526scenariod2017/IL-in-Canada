@@ -18,7 +18,7 @@ This list of websites is by no means exhaustive but includes a select group of l
 
 ### Blogs
 
-There are a number of noteable blogs in the libary and information science (LIS) community that address information literacy (IL) and instruction. Some of our favourites are listed below:
+There are a number of notable blogs in the libary and information science (LIS) community that address information literacy (IL) and instruction. Some of our favourites are listed below:
 
 * [ACRLog](http://acrlog.org/)
 * [In the Library with the Lead Pipe](http://inthelibrarywiththeleadpipe.org/) 
