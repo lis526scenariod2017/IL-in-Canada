@@ -1,4 +1,6 @@
 <footer class="site-footer">
-    {{ site.description }} | [Source](https://github.com/lis526scenariod2017/IL-in-Canada)<br />
+    {{ site.description }} | {% if site.sourcecode %}
+     :: <a href="{{ site.sourcecode }}">Source</a>
+    {% endif %}<br />
 
 </footer>
