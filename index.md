@@ -16,12 +16,12 @@ IL in Canada is aimed at CFLA members and executive council, but is open to all 
 
 We value your feedback and welcome any comments, questions, or suggestions.
 
-##### Credits
+### Credits
 
-##### LIS 526: Instructional Practices in Library and Information Services (Spring/Summer 2017)
+LIS 526: Instructional Practices in Library and Information Services (Spring/Summer 2017)
 
-##### [University of Alberta](https://www.ualberta.ca/), [School of Library and Information Services (SLIS)](https://www.ualberta.ca/school-of-library-and-information-studies) 
+[University of Alberta](https://www.ualberta.ca/), [School of Library and Information Services (SLIS)](https://www.ualberta.ca/school-of-library-and-information-studies) 
 
-##### The Information Literacy Committee (ILC): Colin Elliott, Mary Greenshields, Janie Hill, and Adam Walser
+Prepared by: Colin Elliott, Mary Greenshields, Janie Hill, and Adam Walser
 
 
