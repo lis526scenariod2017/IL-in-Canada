@@ -68,7 +68,7 @@ learning for life (Bradley, 2013);
 * The issues around ILE include that librarians are not being trained to deliver ILE (Albrecht & Baron, 2002)
 but should be considered educational “partners” in knowledge acquisition (Shank & Bell, 2011); it is invisible
 within academe (Badke, 2011); there is no IL policy in Canada (Bradley, 2013); information means different
-things in different contexts and to different people (Cambre & Arshad-Ayaz, 2017); practical, communitydriven
+things in different contexts and to different people (Cambre & Arshad-Ayaz, 2017); practical, community driven
 skills should be the focus (Sturges & Gastinger, 2010).
 
 ### Foundational Resources
