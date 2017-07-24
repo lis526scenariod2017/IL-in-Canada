@@ -8,12 +8,6 @@ permalink: /executivesummary/
 
 Download the [PDF version]().
 
-Prepared for: Canadian Federation of Library Associations (CFLA) / Fédération canadienne des associations de bibliothèques (FCAB)
-
-Prepared by: The Information Literacy Committee (ILC) - Colin Elliott, Mary Greenshields, Janie Hill, & Adam Walser
-
-July 24, 2017
-
 ### Position Statement
 
 WHEREAS, information literacies are a hallmark of an educated, just, progressive society, and necessary for social, economic, political, and cultural advancement; and
@@ -26,8 +20,7 @@ WHEREAS, increasing the ability of citizens to structure, find, understand, and 
 
 WHEREAS, there is no comprehensive, unified, federal Canadian information literacies curriculum and/or policy; and
 
-WHEREAS, Canadians’ information literacies, particularly in the digital realm, are lagging behind world standards at the elementary, secondary and post-secondary levels, as well as in the general population; now, there-
-fore, it is
+WHEREAS, Canadians’ information literacies, particularly in the digital realm, are lagging behind world standards at the elementary, secondary and post-secondary levels, as well as in the general population; now, therefore, it is
 
 RECOMMENDED by the CFLA/FCAB that:
 
@@ -37,8 +30,7 @@ RECOMMENDED by the CFLA/FCAB that:
 
 3. Elementary and secondary school libraries develop comprehensive information literacies instruction plans and access federal monies assigned to this end;
 
-4. Postsecondary libraries work with the Canadian Association of Research Libraries (CARL) to develop a na-
-tionwide information literacies instructional plan, and access any funds allocated to its implementation;
+4. Postsecondary libraries work with the Canadian Association of Research Libraries (CARL) to develop a nationwide information literacies instructional plan, and access any funds allocated to its implementation;
 
 5. The Council of Ministers of Education, Canada (CMEC) include information literacies in their vision for Canadian education and acknowledge their importance in a joint statement addressing provincial and territorial school and postsecondary library policies; and
 
