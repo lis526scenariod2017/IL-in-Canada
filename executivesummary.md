@@ -6,7 +6,7 @@ permalink: /executivesummary/
 
 ## Executive Summary
 
-Download the [PDF version]().
+Download the [PDF version](https://drive.google.com/file/d/0B-hXmPnB9OeMbW5UY0FaeElyRVE/view?usp=sharing).
 
 ### Position Statement
 
