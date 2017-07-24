@@ -54,12 +54,7 @@ strengthen and promote this role.
 
 ### Background
 
-As suggested in this position statement, the state of ILE in Canada is lacking. The term “information
-literacy” has been extant since coined by American Paul Zurkowski in 1974 (Bradley, 2013). The 1982 UNESCO
-Grûnwald Declaration may be the first to address the need for critical media literacy. The importance of informed
-citizenry in the information age, however, was first addressed by the American Library Association in
-1989. The newly formed CFLA has, until now, been silent on this vital issue. However, within the national context,
-research has been circulating on the need for a Canada-wide policy for some time.
+As suggested in this position statement, the state of ILE in Canada is lacking. The term “information literacy” has been extant since coined by American Paul Zurkowski in 1974 (Bradley, 2013). The 1982 UNESCO Grûnwald Declaration may be the first to address the need for critical media literacy. The importance of informed citizenry in the information age, however, was first addressed by the American Library Association in 1989. The newly formed CFLA has, until now, been silent on this vital issue. However, within the national context, research has been circulating on the need for a Canada-wide policy for some time.
 
 ### Research
 
