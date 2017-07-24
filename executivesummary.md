@@ -65,9 +65,11 @@ research has been circulating on the need for a Canada-wide policy for some time
 
 * The importance of ILE includes that it is a human right per UNESCO (Sturges & Gastinger, 2010; Bradley,
 2013); knowledge is changing quickly and learning is lifelong (Farkas, 2012);
+
 * The impact of ILE includes increased political agency (Smith, 2013), and participative citizenry; an educated
 workforce and better national economic outlooks (Whitehead & Quinlan, 2002); knowledge creation and
 learning for life (Bradley, 2013);
+
 * The issues around ILE include that librarians are not being trained to deliver ILE (Albrecht & Baron, 2002)
 but should be considered educational “partners” in knowledge acquisition (Shank & Bell, 2011); it is invisible
 within academe (Badke, 2011); there is no IL policy in Canada (Bradley, 2013); information means different
@@ -75,6 +77,21 @@ things in different contexts and to different people (Cambre & Arshad-Ayaz, 2017
 skills should be the focus (Sturges & Gastinger, 2010).
 
 ### Foundational Resources
+
+* American Library Association (ALA). (2004). *Core values of librarianship*. Retrieved from [http://www.ala.org/
+advocacy/intfreedom/corevalues](http://www.ala.org/advocacy/intfreedom/corevalues)
+* American Library Association (ALA). (1989). *Presidential committee on information literacy*. Final report. Chicago:
+American Library Association. Retrieved from [http://www.ala.org/acrl/publications/whitepapers/presidential](http://www.ala.org/acrl/publications/whitepapers/presidential)
+* International Federation of Library Associations and Institutions (IFLA). (2005). *Beacons of the information
+society: The Alexandria proclamation on information literacy and lifelong learning*. Retrieved from [https://www.ifla.
+org/publications/beacons-of-the-information-society-the-alexandria-proclamation-on-information-literacy](https://www.ifla.
+org/publications/beacons-of-the-information-society-the-alexandria-proclamation-on-information-literacy)
+* Thompson, S. (2003). *Information literacy meeting of experts: Prague, the Czech Republic: September 20-23, 2003:
+Report of a meeting*. Washington: United States Commission on Libraries and Information Science. Retrieved
+from [http://www.unesco.org/fileadmin/MULTIMEDIA/HQ/CI/CI/pdf/themes/info_lit_meeting_
+prague_2003.pdf](http://www.unesco.org/fileadmin/MULTIMEDIA/HQ/CI/CI/pdf/themes/info_lit_meeting_
+prague_2003.pdf)
+
 
 
 
