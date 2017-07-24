@@ -75,16 +75,20 @@ skills should be the focus (Sturges & Gastinger, 2010).
 
 * American Library Association (ALA). (2004). *Core values of librarianship*. Retrieved from [http://www.ala.org/
 advocacy/intfreedom/corevalues](http://www.ala.org/advocacy/intfreedom/corevalues)
+
 * American Library Association (ALA). (1989). *Presidential committee on information literacy*. Final report. Chicago:
 American Library Association. Retrieved from [http://www.ala.org/acrl/publications/whitepapers/presidential](http://www.ala.org/acrl/publications/whitepapers/presidential)
+
 * International Federation of Library Associations and Institutions (IFLA). (2005). *Beacons of the information
 society: The Alexandria proclamation on information literacy and lifelong learning*. Retrieved from [https://www.ifla.
 org/publications/beacons-of-the-information-society-the-alexandria-proclamation-on-information-literacy](https://www.ifla.
 org/publications/beacons-of-the-information-society-the-alexandria-proclamation-on-information-literacy)
+
 * Thompson, S. (2003). *Information literacy meeting of experts: Prague, the Czech Republic: September 20-23, 2003:
 Report of a meeting*. Washington: United States Commission on Libraries and Information Science. Retrieved
 from [http://www.unesco.org/fileadmin/MULTIMEDIA/HQ/CI/CI/pdf/themes/info_lit_meeting_prague_2003.pdf](http://www.unesco.org/fileadmin/MULTIMEDIA/HQ/CI/CI/pdf/themes/info_lit_meeting_
 prague_2003.pdf)
+
 * United Nations. (2017). *United Nations declaration of human rights*. Retrieved from [http://www.un.org/en/
 universal-declaration-human-rights/](http://www.un.org/en/universal-declaration-human-rights/)
 
@@ -92,14 +96,19 @@ universal-declaration-human-rights/](http://www.un.org/en/universal-declaration-
 
 * American Association of School Librarians (AASL). (2011). *Standards for the 21st century learner*. Retrieved
 from [http://www.ala.org/aasl/standards/learning](http://www.ala.org/aasl/standards/learning)
+
 * Association for College and Research Libraries (ACRL). (2015). *Framework for information literacy for higher
 education*. Retrieved from [http://www.ala.org/acrl/standards/ilframework](http://www.ala.org/acrl/standards/ilframework)
+
 * Association for College and Research Libraries (ACRL). (2000). *Information literacy competency standards for
 higher education*. Retrieved from [http://www.ala.org/acrl/standards/informationliteracycompetency](http://www.ala.org/acrl/standards/informationliteracycompetency)
+
 * Chartered Institute of Library and Information Professionals (CILIP). (2017). *Information Literacy*. Retrieved
 from: [https://www.cilip.org.uk/research/topics/information-literacy](https://www.cilip.org.uk/research/topics/information-literacy)
+
 * Society of College, National, and University Libraries (SCONUL) Working Group on Information Literacy.
 (2011). *The SCONUL Seven Pillars of Information Literacy: Core Model for Higher Education*. Retrieved from [https://www.sconul.ac.uk/sites/default/files/documents/coremodel.pdf](https://www.sconul.ac.uk/sites/default/files/documents/coremodel.pdf)
+
 * Secker, J., & Coonan, J. (2011). *A new curriculum for information literacy (ANCIL): Curriculum and supporting
 documents*. Retrieved from [http://ccfil.pbworks.com/f/ANCIL_final.pdf](http://ccfil.pbworks.com/f/ANCIL_final.pdf)
 
@@ -108,13 +117,3 @@ documents*. Retrieved from [http://ccfil.pbworks.com/f/ANCIL_final.pdf](http://c
 * Department of Finance. (2017). *Canada's innovation and skills plan*. Retrieved from [http://www.budget.gc.ca/
 2017/docs/themes/Innovation_en.pdf](http://www.budget.gc.ca/
 2017/docs/themes/Innovation_en.pdf)  
-
-
-
-
-
-
-
-
-
-
