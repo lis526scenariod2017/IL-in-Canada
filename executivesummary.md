@@ -34,7 +34,7 @@ RECOMMENDED by the CFLA/FCAB that:
 
 5. The Council of Ministers of Education, Canada (CMEC) include information literacies in their vision for Canadian education and acknowledge their importance in a joint statement addressing provincial and territorial school and postsecondary library policies; and
 
-6. That public libraries include information literacies in their planning, access funding to deliver training,and offer comprehensive and ongoing informational education for members and staff.
+6. That public libraries include information literacies in their planning, access funding to deliver training, and offer comprehensive and ongoing informational education for members and staff.
 
 This statement ASSUMES that:
 
